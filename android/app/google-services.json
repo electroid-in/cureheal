@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "824081072537",
+    "project_id": "cureheal-c3d24",
+    "storage_bucket": "cureheal-c3d24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824081072537:android:fb436435d6874d45061308",
+        "android_client_info": {
+          "package_name": "com.example.cureheal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqw6m5zsA_8FzDBYEVuMReTqmuPMU9BaI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
